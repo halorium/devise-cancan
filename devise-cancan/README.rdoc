@@ -1,0 +1,3 @@
+== Another RailsApps Tutorial App
+
+This is another tutuorial app. :)
